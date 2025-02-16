@@ -1,7 +1,7 @@
 # avito-shop
 
 Запуск сервера:
-docker-compose up --build
+docker compose up --build
 
 Когда сервис запущен в консоли выводится:
 Приложение инициализировано
